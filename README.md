@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning how to make moula
 - 💞️ I’m looking to collaborate on making moula
 - 📫 How to reach me , send me moula
+- 🤖 Biker, skydiver, stoician adherent
 
 <!---
 noeoxycode/noeoxycode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
